@@ -1,6 +1,6 @@
 # Frontend Assignment – TaskNavigator
 
-**Live Demo**: https://task-navigator-alpha.vercel.app/developer-dashboard
+**Live Demo**: https://task-navigator-alpha.vercel.app
 
 ---
 ![image](https://github.com/user-attachments/assets/04a7c0a4-9803-4066-957f-f0bfa184130a)
