@@ -161,7 +161,7 @@ const Dashboard = () => {
         <div className="bg-white p-4 rounded-lg shadow-sm">
           {filteredTasks.length > 0 ? (
             <div
-              className="flex flex-col sm:flex-row sm:overflow-x-auto gap-4"
+              className="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"
             >
               {filteredTasks.map((eachTask) => (
                   <TaskCard key={eachTask.id} task={eachTask} />
