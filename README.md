@@ -1,8 +1,9 @@
 # Frontend Assignment – TaskNavigator
 
-**Live Demo**: 
+**Live Demo**: https://task-navigator-alpha.vercel.app
 
 ---
+![image](https://github.com/user-attachments/assets/04a7c0a4-9803-4066-957f-f0bfa184130a)
 
 ## 🔧 Getting Started Locally
 
@@ -25,7 +26,7 @@ To run the project on your local machine:
 ### Developer Access:
 
 * **Email:** [developer@fealtyx.com](mailto:developer@fealtyx.com)
-* **Password:** dev\@123
+* **Password:** Dev\@123
 
 ### Manager Access:
 
